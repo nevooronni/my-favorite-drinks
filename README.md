@@ -1,18 +1,19 @@
-# FAVORITE DRINKS WEBPAGE
+# FOVORITE DRINKS WEBPAGE
 
 ## AUTHOR  
-**Neville Oronni**
+**Neville Oronni**  
 
-## DESCRIPTION/PROJECT PURPOSE  
-Create a wepage that display all of my favorite drinks_(moringa school project)_
+## DESCRIPTION  
+Webpage diaplaying my favorite drinks with their images.
 
-## CONTACT INFORMATION  
-[email address: nevooronni@gmail.com](nevooronni@gmail.com)  
 
 ## TECHNOLOGIES ADDED  
-* HTML file  
-* CSS file  
-* IMAGE file  
+* HTML file
+* CSS file
+* IMAGE file
 
-## LICENSE
+## CONTACT INFORMATION  
+[email address: nevooronni@gmail.com](nevooronni@gmail.com)
+
+## LICENSE  
 **MIT license**
